@@ -1,1 +1,10 @@
-# 1. Creo la clone 
+
+Una documentazione elementare di come si usa git con github -> molto elementare e forse anche errata ma va bene cmq 
+1. Creare una repository su github 
+2. creare un clone di questa repo sul computer 
+2. una volta che ho la repo posso aggiungere roba 
+3. git status -> vedere i file aggiornati oppure non aggiunti 
+4. git add . 
+5. git commit -m "messaggio" -> ci deve essere per forza 
+6 git push -u origin main/master
+
