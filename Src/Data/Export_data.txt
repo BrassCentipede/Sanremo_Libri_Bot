@@ -1,0 +1,7 @@
+file_id : AgADFBcAAgXHaFE
+classe: 4G
+directory: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+personal_data: ['06/11/2024', '3807991129', 'Andrei', 'tarlev']
+import_time: ['07/11/2024 , 16:01:53']
+export_times: ['ods : 07/11/2024 , 16:03:04', 'pdf : 07/11/2024 , 16:03:11', 'pdf : 07/11/2024 , 16:03:21', 'pdf : 07/11/2024 , 16:03:23', 'pdf : 07/11/2024 , 16:03:27']
+

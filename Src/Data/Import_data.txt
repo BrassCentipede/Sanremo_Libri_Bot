@@ -1,0 +1,45 @@
+file_id: AgADkBcAAnVyUFE
+file_name: 5DL
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 05/11/2024 , 00:05:49
+
+file_id: AgADkRcAAnVyUFE
+file_name: 5ALSA
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 05/11/2024 , 00:07:46
+
+file_id: AgADkxcAAnVyUFE
+file_name: Classe-3G-grafica
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 05/11/2024 , 00:09:17
+
+file_id: AgADrRcAAnVyUFE
+file_name: LISTA_LIBRI_GOBETTI_2024-25_1
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 05/11/2024 , 04:11:30
+
+file_id: AgAD8hcAAnVyUFE
+file_name: LISTA_LIBRI_GOBETTI_2024-25_1
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 05/11/2024 , 12:42:49
+
+file_id: AgAD8hkAAo5AYFE
+file_name: 4G
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 07/11/2024 , 02:10:19
+
+file_id: AgAD8xkAAo5AYFE
+file_name: 5ALSA
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 07/11/2024 , 02:13:27
+
+file_id: AgAD9RkAAo5AYFE
+file_name: 5ALSA
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 07/11/2024 , 02:16:53
+
+file_id: AgADFBcAAgXHaFE
+file_name: 4G
+direcrory_path: /Users/andreitarlev/Documents/Informatica/Progetti/AdvanceProjects/Scolastica/Src/Files/input_pdf
+moment_of_uploading: 07/11/2024 , 16:01:53
+

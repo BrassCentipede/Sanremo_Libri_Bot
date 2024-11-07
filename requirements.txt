@@ -1,0 +1,14 @@
+pandas
+camelot-py
+pyTelegramBotAPI
+pypdf                   
+PyPDF2
+ghostscript  
+odfpy      
+requests   
+opencv-python
+fpdf
+PyMuPDF
+watchdog 
+psutil
+

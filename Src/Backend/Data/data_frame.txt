@@ -1,0 +1,16 @@
+                1                           0                                                                                                                                 3                        5      6
+0   9788842618416                   RELIGIONE                                     SORRIDI E GUARDA LONTANO + ABITARE LA CASA COMUNE (PERCORSI\nED. CIVICA) / CON NULLA OSTA CEI             IL CAPITELLO  18,50
+1   9788842618539         ITALIANO GRAMMATICA                                                                                     A CHIARE LETTERE / LA GRAMMATICA PER SCRIVERE             IL CAPITELLO  17,90
+2   9788808833457          ITALIANO ANTOLOGIE                                                                                            LEGGERE PER VIVERE - NARRATIVA (LDM) /       ZANICHELLI EDITORE  23,40
+3   9788808199157                      LATINO                                                             PRIMO LATINO (IL) 3ED. / VOCABOLARIO LATINO ITALIANO ITALIANO\nLATINO       ZANICHELLI EDITORE  35,70
+4   9788836008933                      LATINO  NOVE DISCERE CORSO DI LATINO TEORIA ED ESERCIZI / ESERCITAZIONI\nE VERSIONI GRADUATE - CULTURA E CIVILTÀ LATINA - EDUCAZIONE\nCI                   HOEPLI  24,90
+5   9780194158084                     INGLESE                                                              INSIGHT 2E P-INT COMBO PACK / SB/WB + SKILLS TRAINER + DIGITAL\nPACK  OXFORD UNIVERSITY PRESS  35,30
+6   9788838339011                    FRANCESE                                                                                      INSTAFRANCE / VOLUME 1, FASCICOLO GRAMMATICA        RIZZOLI LANGUAGES  24,80
+7   9788808820648          FRANCESE DIZIONARI                                                                      BOCH 7ED. / DIZIONARIO ITALIANO FRANCESE - FRANCESE ITALIANO       ZANICHELLI EDITORE  77,80
+8   9788851160197                    SPAGNOLO                                                                 #ESPAÑOL / VOLUME 1 + #GRAMÁTICA 1 + EBOOK + EASY EBOOK\n(SU DVD)              DE AGOSTINI  24,40
+9   9788836004423          SPAGNOLO DIZIONARI                                                                                                      GRANDE DIZIONARIO SPAGNOLO /                   HOEPLI  84,90
+10  9788820344085          SPAGNOLO DIZIONARI                                                                                      DIZIONARIO HOEPLI SPAGNOLO / EDIZIONE MINORE                   HOEPLI  47,90
+11  9788858343104          STORIA E GEOGRAFIA           PIETRE PARLANO (LE) NUOVA EDIZIONE VOL.1 / 1. DALLA PREISTORIA\nA ROMA REPUBBLICANA + ATLANTE DI GEOSTORIA + ED. CIVICA         LOESCHER EDITORE  27,70
+12  9788808720122            SCIENZE NATURALI                                                                                       #TERRA EDIZIONE VERDE 3ED. - VOL. U (LDM) /       ZANICHELLI EDITORE  26,00
+13  9788849422214                  MATEMATICA                        COLORI DELLA MATEMATICA - EDIZIONE AZZURRA SMART VOLUME\n1 + EBOOK / + QUADERNO DI INCLUSIONE E RECUPERO 1                  PETRINI  30,60
+14  9788839303967  SCIENZE MOTORIE E SPORTIVE                                                        ATTIVI!  SPORT E SANE ABITUDINI / VOLUME UNICO + EBOOK +\nATTIVI! MAGAZINE          MARIETTI SCUOLA  22,45
